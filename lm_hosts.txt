@@ -1,0 +1,3 @@
+104.247.81.71 playback.svcs.mlb.com
+104.247.81.71 mlb-ws-mf.media.mlb.com
+104.247.81.71 mf.svc.nhl.com
